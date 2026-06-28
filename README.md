@@ -1,4 +1,4 @@
-# First Intern - Kuwait Graduate Internship Portal
+# First Intern - Internship Portal
 
 First Intern is a highly polished, interactive, client-side internship search and application tracking portal designed specifically for Kuwaiti graduates. It serves as a modern bridge connecting talented local graduates with prime opportunities, built with React, Vite, and styled dynamically with Tailwind CSS.
 
