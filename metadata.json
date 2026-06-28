@@ -1,0 +1,6 @@
+{
+  "name": "Kuwait Internship Search",
+  "description": "A minimal, ultra-simple internship search application for recent graduates in Kuwait featuring search, filtering, job posting, and application simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
