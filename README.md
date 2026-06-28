@@ -8,7 +8,6 @@ First Intern is a highly polished, interactive, client-side internship search an
 
 This application operates completely on the client-side with offline-first local state persistence (`localStorage`). There are **no backend databases, credentials, or API keys** (such as Google Gemini, Database URLs, or Auth tokens) embedded in the code.
 
-It is **100% safe** to push this repository directly to a public or private GitHub repository without risking credential leaks.
 
 ---
 
